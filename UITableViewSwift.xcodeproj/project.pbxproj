@@ -10,6 +10,21 @@
 		FA8AD419195A56A100AF6C88 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8AD418195A56A100AF6C88 /* AppDelegate.swift */; };
 		FA8AD41B195A56A100AF6C88 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA8AD41A195A56A100AF6C88 /* Images.xcassets */; };
 		FA8AD427195A56A100AF6C88 /* UITableViewSwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8AD426195A56A100AF6C88 /* UITableViewSwiftTests.swift */; };
+		FA8AD43C195A56CF00AF6C88 /* ID-100120.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA8AD431195A56CF00AF6C88 /* ID-100120.jpg */; };
+		FA8AD43D195A56CF00AF6C88 /* ID-10012923.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA8AD432195A56CF00AF6C88 /* ID-10012923.jpg */; };
+		FA8AD43E195A56CF00AF6C88 /* ID-100136.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA8AD433195A56CF00AF6C88 /* ID-100136.jpg */; };
+		FA8AD43F195A56CF00AF6C88 /* ID-100137.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA8AD434195A56CF00AF6C88 /* ID-100137.jpg */; };
+		FA8AD440195A56CF00AF6C88 /* ID-100140.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA8AD435195A56CF00AF6C88 /* ID-100140.jpg */; };
+		FA8AD441195A56CF00AF6C88 /* ID-10016005.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA8AD436195A56CF00AF6C88 /* ID-10016005.jpg */; };
+		FA8AD442195A56CF00AF6C88 /* ID-10018395.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA8AD437195A56CF00AF6C88 /* ID-10018395.jpg */; };
+		FA8AD443195A56CF00AF6C88 /* ID-10021769.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA8AD438195A56CF00AF6C88 /* ID-10021769.jpg */; };
+		FA8AD444195A56CF00AF6C88 /* ID-10034505.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA8AD439195A56CF00AF6C88 /* ID-10034505.jpg */; };
+		FA8AD445195A56CF00AF6C88 /* ID-10056667.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA8AD43A195A56CF00AF6C88 /* ID-10056667.jpg */; };
+		FA8AD446195A56CF00AF6C88 /* ID-1009881.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA8AD43B195A56CF00AF6C88 /* ID-1009881.jpg */; };
+		FA8AD448195A56EC00AF6C88 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA8AD447195A56EC00AF6C88 /* Main.storyboard */; };
+		FA8AD44A195A59D200AF6C88 /* DogListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8AD449195A59D200AF6C88 /* DogListTableViewController.swift */; };
+		FA8AD44C195A5A6900AF6C88 /* Animal.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8AD44B195A5A6900AF6C88 /* Animal.swift */; };
+		FA8AD44E195A5B1000AF6C88 /* AnimalViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8AD44D195A5B1000AF6C88 /* AnimalViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -30,6 +45,21 @@
 		FA8AD420195A56A100AF6C88 /* UITableViewSwiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UITableViewSwiftTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA8AD425195A56A100AF6C88 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FA8AD426195A56A100AF6C88 /* UITableViewSwiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITableViewSwiftTests.swift; sourceTree = "<group>"; };
+		FA8AD431195A56CF00AF6C88 /* ID-100120.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ID-100120.jpg"; sourceTree = "<group>"; };
+		FA8AD432195A56CF00AF6C88 /* ID-10012923.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ID-10012923.jpg"; sourceTree = "<group>"; };
+		FA8AD433195A56CF00AF6C88 /* ID-100136.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ID-100136.jpg"; sourceTree = "<group>"; };
+		FA8AD434195A56CF00AF6C88 /* ID-100137.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ID-100137.jpg"; sourceTree = "<group>"; };
+		FA8AD435195A56CF00AF6C88 /* ID-100140.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ID-100140.jpg"; sourceTree = "<group>"; };
+		FA8AD436195A56CF00AF6C88 /* ID-10016005.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ID-10016005.jpg"; sourceTree = "<group>"; };
+		FA8AD437195A56CF00AF6C88 /* ID-10018395.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ID-10018395.jpg"; sourceTree = "<group>"; };
+		FA8AD438195A56CF00AF6C88 /* ID-10021769.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ID-10021769.jpg"; sourceTree = "<group>"; };
+		FA8AD439195A56CF00AF6C88 /* ID-10034505.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ID-10034505.jpg"; sourceTree = "<group>"; };
+		FA8AD43A195A56CF00AF6C88 /* ID-10056667.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ID-10056667.jpg"; sourceTree = "<group>"; };
+		FA8AD43B195A56CF00AF6C88 /* ID-1009881.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ID-1009881.jpg"; sourceTree = "<group>"; };
+		FA8AD447195A56EC00AF6C88 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		FA8AD449195A59D200AF6C88 /* DogListTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DogListTableViewController.swift; sourceTree = "<group>"; };
+		FA8AD44B195A5A6900AF6C88 /* Animal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Animal.swift; sourceTree = "<group>"; };
+		FA8AD44D195A5B1000AF6C88 /* AnimalViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimalViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,9 +101,14 @@
 		FA8AD415195A56A100AF6C88 /* UITableViewSwift */ = {
 			isa = PBXGroup;
 			children = (
+				FA8AD430195A56CF00AF6C88 /* Dogs */,
 				FA8AD418195A56A100AF6C88 /* AppDelegate.swift */,
 				FA8AD41A195A56A100AF6C88 /* Images.xcassets */,
 				FA8AD416195A56A100AF6C88 /* Supporting Files */,
+				FA8AD447195A56EC00AF6C88 /* Main.storyboard */,
+				FA8AD449195A59D200AF6C88 /* DogListTableViewController.swift */,
+				FA8AD44D195A5B1000AF6C88 /* AnimalViewCell.swift */,
+				FA8AD44B195A5A6900AF6C88 /* Animal.swift */,
 			);
 			path = UITableViewSwift;
 			sourceTree = "<group>";
@@ -101,6 +136,24 @@
 				FA8AD425195A56A100AF6C88 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FA8AD430195A56CF00AF6C88 /* Dogs */ = {
+			isa = PBXGroup;
+			children = (
+				FA8AD431195A56CF00AF6C88 /* ID-100120.jpg */,
+				FA8AD432195A56CF00AF6C88 /* ID-10012923.jpg */,
+				FA8AD433195A56CF00AF6C88 /* ID-100136.jpg */,
+				FA8AD434195A56CF00AF6C88 /* ID-100137.jpg */,
+				FA8AD435195A56CF00AF6C88 /* ID-100140.jpg */,
+				FA8AD436195A56CF00AF6C88 /* ID-10016005.jpg */,
+				FA8AD437195A56CF00AF6C88 /* ID-10018395.jpg */,
+				FA8AD438195A56CF00AF6C88 /* ID-10021769.jpg */,
+				FA8AD439195A56CF00AF6C88 /* ID-10034505.jpg */,
+				FA8AD43A195A56CF00AF6C88 /* ID-10056667.jpg */,
+				FA8AD43B195A56CF00AF6C88 /* ID-1009881.jpg */,
+			);
+			path = Dogs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -182,7 +235,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA8AD440195A56CF00AF6C88 /* ID-100140.jpg in Resources */,
+				FA8AD445195A56CF00AF6C88 /* ID-10056667.jpg in Resources */,
+				FA8AD441195A56CF00AF6C88 /* ID-10016005.jpg in Resources */,
+				FA8AD43C195A56CF00AF6C88 /* ID-100120.jpg in Resources */,
+				FA8AD442195A56CF00AF6C88 /* ID-10018395.jpg in Resources */,
+				FA8AD443195A56CF00AF6C88 /* ID-10021769.jpg in Resources */,
+				FA8AD446195A56CF00AF6C88 /* ID-1009881.jpg in Resources */,
+				FA8AD448195A56EC00AF6C88 /* Main.storyboard in Resources */,
+				FA8AD43E195A56CF00AF6C88 /* ID-100136.jpg in Resources */,
+				FA8AD444195A56CF00AF6C88 /* ID-10034505.jpg in Resources */,
 				FA8AD41B195A56A100AF6C88 /* Images.xcassets in Resources */,
+				FA8AD43D195A56CF00AF6C88 /* ID-10012923.jpg in Resources */,
+				FA8AD43F195A56CF00AF6C88 /* ID-100137.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -200,7 +265,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA8AD44E195A5B1000AF6C88 /* AnimalViewCell.swift in Sources */,
+				FA8AD44A195A59D200AF6C88 /* DogListTableViewController.swift in Sources */,
 				FA8AD419195A56A100AF6C88 /* AppDelegate.swift in Sources */,
+				FA8AD44C195A5A6900AF6C88 /* Animal.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
